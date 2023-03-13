@@ -9,6 +9,8 @@ sites:
     url: https://launchpad.deflationcoins.com/
   - name: Dectplatform - Frontend
     url: https://dectplatform.com/
+  - name: Dectplatform - Backend
+    url: https://beta-backend.dectplatform.com/api/v1/
   - name: Dolcefund
     url: https://dolcefund.com/
   - name: Mogul Token
@@ -21,7 +23,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://deflationcoins.com/assets/full-logo.0d7f0e02.png
   name: Deflation Coins
   introTitle: "**Deflation Coins Uptime**"
   introMessage: Website uptime monitor
