@@ -58,18 +58,20 @@
     "url": "https://beta-backend.dectplatform.com/api/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/beta-backend.dectplatform.com.ico",
     "slug": "dectplatform-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1255,
-    "timeDay": 3773,
-    "timeWeek": 1255,
-    "timeMonth": 1255,
-    "timeYear": 1255,
-    "dailyMinutesDown": {}
+    "time": 1934,
+    "timeDay": 5557,
+    "timeWeek": 1934,
+    "timeMonth": 1934,
+    "timeYear": 1934,
+    "dailyMinutesDown": {
+      "2023-03-17": 0
+    }
   },
   {
     "name": "Dolcefund",
