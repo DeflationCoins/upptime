@@ -58,19 +58,19 @@
     "url": "https://beta-backend.dectplatform.com/api/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/beta-backend.dectplatform.com.ico",
     "slug": "dectplatform-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1950,
-    "timeDay": 3808,
-    "timeWeek": 1950,
-    "timeMonth": 1950,
-    "timeYear": 1950,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1871,
+    "timeDay": 3169,
+    "timeWeek": 1871,
+    "timeMonth": 1871,
+    "timeYear": 1871,
     "dailyMinutesDown": {
-      "2023-03-17": 0
+      "2023-03-17": 8
     }
   },
   {
