@@ -45,9 +45,6 @@ This is a list of repositories maintained by our team, along with links to their
 | [Dectplatform (beta) - Backend](https://beta-backend.dectplatform.com/api/v1/) | [Linode](https://cloud.linode.com/linodes)	| https://github.com/DeflationCoins/trading-platform-backend
 | [Dectplatform (aws-beta) - Backend](https://staging-aws-backend.dectplatform.com/api/v1/) | [AWS EKS](https://eu-central-1.console.aws.amazon.com/eks/home?region=eu-central-1#/clusters/eks-dect-stg)	| https://github.com/DeflationCoins/trading-platform-backend
 
-### Description
-Project A: This repository contains code for a web application built using React and Node.js. The application allows users to create and share interactive maps.
-
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
