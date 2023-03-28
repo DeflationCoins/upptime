@@ -28,6 +28,26 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 [**Visit our status website →**](https://deflationcoins.github.io/upptime)
 
+## List of Repositories
+This is a list of repositories maintained by our team, along with links to their respective GitHub repositories.
+
+| Project | Hosting	| GitHub Repository
+| ------- | ------- | -----------------
+| [Mogul Token](https://mogultoken.io/) | [AWS Lightsail](https://lightsail.aws.amazon.com/ls/webapp/eu-central-1/instances/lsl-mogultoken-eu-central-1-landing/connect)	| N/A (Edit using WordPress)
+| [Praz Project](https://prazproject.com/) | [AWS Lightsail](https://lightsail.aws.amazon.com/ls/webapp/eu-central-1/instances/lsl-prazproject-eu-central-1-landing/connect)	| N/A (Edit using WordPress)
+| [Dolce Fund](https://dolcefund.com/) | [AWS Amplify](https://eu-central-1.console.aws.amazon.com/amplify/home?region=eu-central-1#/d3dxq4ev4d0ca6)	| https://github.com/DeflationCoins/dolce-landing
+| [Deflation Coins - Landing](https://deflationcoins.com/) | [AWS Amplify](https://eu-central-1.console.aws.amazon.com/amplify/home?region=eu-central-1#/d348ygjwstj8ih)	| https://github.com/DeflationCoins/deflationcoins-landing/
+| [Deflation Coins - Launchpad](https://launchpad.deflationcoins.com/) | [AWS Amplify](https://eu-central-1.console.aws.amazon.com/amplify/home?region=eu-central-1#/d2b2ajapwzsqvg)	| https://github.com/DeflationCoins/launchpad_new/
+| [Dectplatform (prod) - Frontend](https://dectplatform.com/) | [AWS Amplify](https://eu-central-1.console.aws.amazon.com/amplify/home?region=eu-central-1#/d1cuwv1qeqs8ds)	| https://github.com/DeflationCoins/trading-platform-frontend
+| [Dectplatform (beta) - Frontend](https://staging.dectplatform.com/) | [AWS Amplify](https://eu-central-1.console.aws.amazon.com/amplify/home?region=eu-central-1#/d1cuwv1qeqs8ds)	| https://github.com/DeflationCoins/trading-platform-frontend
+| [Dectplatform (aws-beta) - Frontend](https://staging-aws.dectplatform.com/) | [AWS Amplify](https://eu-central-1.console.aws.amazon.com/amplify/home?region=eu-central-1#/d1cuwv1qeqs8ds)	| https://github.com/DeflationCoins/trading-platform-frontend
+| [Dectplatform (prod) - Backend](https://backend.dectplatform.com/api/v1/) | [Linode](https://cloud.linode.com/linodes)	| https://github.com/DeflationCoins/trading-platform-backend
+| [Dectplatform (beta) - Backend](https://beta-backend.dectplatform.com/api/v1/) | [Linode](https://cloud.linode.com/linodes)	| https://github.com/DeflationCoins/trading-platform-backend
+| [Dectplatform (aws-beta) - Backend](https://staging-aws-backend.dectplatform.com/api/v1/) | [AWS EKS](https://eu-central-1.console.aws.amazon.com/eks/home?region=eu-central-1#/clusters/eks-dect-stg)	| https://github.com/DeflationCoins/trading-platform-backend
+
+### Description
+Project A: This repository contains code for a web application built using React and Node.js. The application allows users to create and share interactive maps.
+
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
