@@ -44,6 +44,7 @@ This is a list of repositories maintained by our team, along with links to their
 | [Dectplatform (prod) - Backend](https://backend.dectplatform.com/api/v1/) | [Linode](https://cloud.linode.com/linodes)	| https://github.com/DeflationCoins/trading-platform-backend
 | [Dectplatform (beta) - Backend](https://beta-backend.dectplatform.com/api/v1/) | [Linode](https://cloud.linode.com/linodes)	| https://github.com/DeflationCoins/trading-platform-backend
 | [Dectplatform (aws-beta) - Backend](https://staging-aws-backend.dectplatform.com/api/v1/) | [AWS EKS](https://eu-central-1.console.aws.amazon.com/eks/home?region=eu-central-1#/clusters/eks-dect-stg)	| https://github.com/DeflationCoins/trading-platform-backend
+| [IAM Snowball](https://www.iamsnowball.com/) | [AWS S3](https://s3.console.aws.amazon.com/s3/buckets/s3-iamsnowball-eu-central-1-landing?region=eu-central-1&tab=objects) | https://github.com/DeflationCoins/snowball-landing
 
 ## 📄 License
 
