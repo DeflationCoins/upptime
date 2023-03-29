@@ -112,19 +112,19 @@
     "url": "https://prazproject.com/",
     "icon": "https://icons.duckduckgo.com/ip3/prazproject.com.ico",
     "slug": "praz-project",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "97.70%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 1563,
-    "timeDay": 1167,
-    "timeWeek": 1436,
-    "timeMonth": 1563,
-    "timeYear": 1563,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 1569,
+    "timeDay": 1280,
+    "timeWeek": 1457,
+    "timeMonth": 1569,
+    "timeYear": 1569,
     "dailyMinutesDown": {
-      "2023-03-29": 33
+      "2023-03-29": 41
     }
   },
   {
