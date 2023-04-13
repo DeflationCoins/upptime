@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/deflationcoins.com.ico",
     "slug": "deflationcoins",
     "status": "up",
-    "uptime": "90.32%",
+    "uptime": "90.49%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.07%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "90.26%",
-    "uptimeYear": "90.32%",
+    "uptimeYear": "90.49%",
     "time": 397,
     "timeDay": 235,
-    "timeWeek": 662,
-    "timeMonth": 397,
+    "timeWeek": 665,
+    "timeMonth": 405,
     "timeYear": 397,
     "dailyMinutesDown": {
       "2023-04-06": 583,
@@ -28,15 +28,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/launchpad.deflationcoins.com.ico",
     "slug": "deflation-coins-launchpad",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.58%",
     "time": 564,
     "timeDay": 659,
     "timeWeek": 684,
-    "timeMonth": 564,
+    "timeMonth": 579,
     "timeYear": 564,
     "dailyMinutesDown": {
       "2023-04-04": 188
@@ -56,7 +56,7 @@
     "time": 878,
     "timeDay": 403,
     "timeWeek": 899,
-    "timeMonth": 878,
+    "timeMonth": 881,
     "timeYear": 878,
     "dailyMinutesDown": {}
   },
@@ -65,18 +65,20 @@
     "url": "https://beta-backend.dectplatform.com/api/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/beta-backend.dectplatform.com.ico",
     "slug": "dectplatform-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1015,
     "timeDay": 391,
     "timeWeek": 447,
-    "timeMonth": 1015,
+    "timeMonth": 1024,
     "timeYear": 1015,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-13": 0
+    }
   },
   {
     "name": "Dolcefund",
@@ -92,7 +94,7 @@
     "time": 368,
     "timeDay": 252,
     "timeWeek": 399,
-    "timeMonth": 368,
+    "timeMonth": 371,
     "timeYear": 368,
     "dailyMinutesDown": {}
   },
@@ -110,7 +112,7 @@
     "time": 1185,
     "timeDay": 1098,
     "timeWeek": 1142,
-    "timeMonth": 1185,
+    "timeMonth": 1181,
     "timeYear": 1185,
     "dailyMinutesDown": {}
   },
@@ -128,7 +130,7 @@
     "time": 1547,
     "timeDay": 1539,
     "timeWeek": 1503,
-    "timeMonth": 1547,
+    "timeMonth": 1539,
     "timeYear": 1547,
     "dailyMinutesDown": {
       "2023-03-29": 33
